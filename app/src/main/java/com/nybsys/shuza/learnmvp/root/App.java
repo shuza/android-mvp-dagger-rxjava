@@ -2,7 +2,6 @@ package com.nybsys.shuza.learnmvp.root;
 
 import android.app.Application;
 
-import com.nybsys.shuza.learnmvp.DaggerApplicationComponent;
 import com.nybsys.shuza.learnmvp.login.LoginModule;
 
 /**

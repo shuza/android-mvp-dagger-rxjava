@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity implements LoginActivityMVP
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                presenter.loginButtonClicked();
             }
         });
 
