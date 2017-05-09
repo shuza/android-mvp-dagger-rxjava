@@ -5,7 +5,7 @@ import dagger.Module;
 /**
  * Created by Shuza on 08-May-17.
  */
-@Module
+
 public class LoginModel implements LoginActivityMVP.Model {
 
     private LoginRepository repository;
